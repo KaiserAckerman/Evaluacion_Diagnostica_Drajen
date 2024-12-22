@@ -40,10 +40,10 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("SimSun-ExtG", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(261, 18);
+            label1.Font = new Font("Arial Narrow", 24F, FontStyle.Bold);
+            label1.Location = new Point(321, 30);
             label1.Name = "label1";
-            label1.Size = new Size(270, 48);
+            label1.Size = new Size(159, 37);
             label1.TabIndex = 0;
             label1.Text = "Bienvenido";
             // 
