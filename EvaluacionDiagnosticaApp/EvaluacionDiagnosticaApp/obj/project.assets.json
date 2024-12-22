@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\.git\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj",
+      "projectUniqueName": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj",
       "projectName": "EvaluacionDiagnosticaApp",
-      "projectPath": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\.git\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj",
+      "projectPath": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj",
       "packagesPath": "C:\\Users\\josab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\.git\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\obj\\",
+      "outputPath": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josab\\AppData\\Roaming\\NuGet\\NuGet.Config",
