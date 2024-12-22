@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formcalculoedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formgeneradorcontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formgeneradorcontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|c:\\users\\josab\\evaluacion_diagnostica_drajen\\evaluaciondiagnosticaapp\\evaluaciondiagnosticaapp\\formgeneradorcontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formgeneradorcontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|c:\\users\\josab\\evaluacion_diagnostica_drajen\\evaluaciondiagnosticaapp\\evaluaciondiagnosticaapp\\formcalculoedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formcalculoedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -43,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formgeneradorcontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formgeneradorcontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|c:\\users\\josab\\evaluacion_diagnostica_drajen\\evaluaciondiagnosticaapp\\evaluaciondiagnosticaapp\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -91,6 +95,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FormGeneradorContrase\u00F1as.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs",
+              "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs",
+              "ToolTip": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs",
+              "RelativeToolTip": "EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:27:42.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FormCalculoEdad.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormCalculoEdad.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormCalculoEdad.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormPalindromos.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormPalindromos.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormPalindromos.cs",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FormPalindromos.Designer.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormPalindromos.Designer.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormPalindromos.Designer.cs",
@@ -128,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Menu.resx",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Menu.resx",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\Menu.resx",
@@ -139,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Program.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\Program.cs",
@@ -151,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FormAhorcado.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormAhorcado.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormAhorcado.cs",
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FormCalculoEdad.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormCalculoEdad.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormCalculoEdad.cs",
@@ -174,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "FormCrudUsuarios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormCrudUsuarios.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormCrudUsuarios.cs",
@@ -185,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "FormFibonacci.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormFibonacci.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormFibonacci.cs",
@@ -196,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FormCrudUsuarios.resx",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormCrudUsuarios.resx",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormCrudUsuarios.resx",
@@ -207,18 +224,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "FormGeneradorContrase\u00F1as.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs",
               "ToolTip": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs [Dise\u00F1o]",
               "RelativeToolTip": "EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T17:57:31.524Z"
+              "WhenOpened": "2024-12-22T17:57:31.524Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FormPalindromos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormPalindromos.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormPalindromos.cs",
@@ -229,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Menu.Designer.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Menu.Designer.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\Menu.Designer.cs",
@@ -241,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Menu.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\Menu.cs",
@@ -254,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Menu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Menu.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\Menu.cs",

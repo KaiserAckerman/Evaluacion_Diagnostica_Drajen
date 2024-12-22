@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvaluacionDiagnosticaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d52fa3499778a485f8320232a85b74223794a68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1833a89dc6f380e74959b57f758ca8efaffa622e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvaluacionDiagnosticaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvaluacionDiagnosticaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
