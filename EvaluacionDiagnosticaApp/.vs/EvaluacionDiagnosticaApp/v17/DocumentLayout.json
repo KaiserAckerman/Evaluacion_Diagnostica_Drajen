@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|c:\\users\\josab\\evaluacion_diagnostica_drajen\\evaluaciondiagnosticaapp\\evaluaciondiagnosticaapp\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formcalculoedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formcalculoedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formcrudusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formcrudusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|c:\\users\\josab\\evaluacion_diagnostica_drajen\\evaluaciondiagnosticaapp\\evaluaciondiagnosticaapp\\formahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,15 +27,11 @@
       "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formcalculoedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formcalculoedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|c:\\users\\josab\\evaluacion_diagnostica_drajen\\evaluaciondiagnosticaapp\\evaluaciondiagnosticaapp\\formgeneradorcontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formgeneradorcontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formgeneradorcontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -47,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formcrudusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formcrudusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\evaluaciondiagnosticaapp\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|c:\\users\\josab\\evaluacion_diagnostica_drajen\\evaluaciondiagnosticaapp\\evaluaciondiagnosticaapp\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33507789-AEF3-4C28-8BEB-0CF6B013D2B4}|EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp.csproj|solutionrelative:evaluaciondiagnosticaapp\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,6 +103,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FormFibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormFibonacci.cs",
+              "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormFibonacci.cs",
+              "ToolTip": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormFibonacci.cs",
+              "RelativeToolTip": "EvaluacionDiagnosticaApp\\FormFibonacci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:32:03.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FormAhorcado.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormAhorcado.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormAhorcado.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "FormGeneradorContrase\u00F1as.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "FormCalculoEdad.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormCalculoEdad.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormCalculoEdad.cs",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "FormPalindromos.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormPalindromos.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormPalindromos.cs",
@@ -150,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "FormPalindromos.Designer.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormPalindromos.Designer.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormPalindromos.Designer.cs",
@@ -162,19 +179,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Menu.resx",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Menu.resx",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\Menu.resx",
               "ToolTip": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Menu.resx",
               "RelativeToolTip": "EvaluacionDiagnosticaApp\\Menu.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-12-22T17:58:10.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T17:58:10.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Program.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\Program.cs",
@@ -186,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "FormAhorcado.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormAhorcado.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormAhorcado.cs",
@@ -210,52 +226,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "FormCrudUsuarios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormCrudUsuarios.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormCrudUsuarios.cs",
               "ToolTip": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormCrudUsuarios.cs [Dise\u00F1o]",
               "RelativeToolTip": "EvaluacionDiagnosticaApp\\FormCrudUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T17:57:34.089Z"
+              "WhenOpened": "2024-12-22T17:57:34.089Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "FormFibonacci.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormFibonacci.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormFibonacci.cs",
               "ToolTip": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormFibonacci.cs [Dise\u00F1o]",
               "RelativeToolTip": "EvaluacionDiagnosticaApp\\FormFibonacci.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T17:57:33.263Z"
+              "WhenOpened": "2024-12-22T17:57:33.263Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "FormCrudUsuarios.resx",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormCrudUsuarios.resx",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormCrudUsuarios.resx",
               "ToolTip": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormCrudUsuarios.resx",
               "RelativeToolTip": "EvaluacionDiagnosticaApp\\FormCrudUsuarios.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-12-22T17:57:32.339Z"
+              "WhenOpened": "2024-12-22T17:57:32.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "FormGeneradorContrase\u00F1as.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs",
               "ToolTip": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs [Dise\u00F1o]",
               "RelativeToolTip": "EvaluacionDiagnosticaApp\\FormGeneradorContrase\u00F1as.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T17:57:31.524Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-12-22T17:57:31.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "FormPalindromos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\FormPalindromos.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\FormPalindromos.cs",
@@ -266,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Menu.Designer.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Menu.Designer.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\Menu.Designer.cs",
@@ -274,12 +292,11 @@
               "RelativeToolTip": "EvaluacionDiagnosticaApp\\Menu.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T17:56:31.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T17:56:31.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Menu.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\Menu.cs",
@@ -292,15 +309,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Menu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Menu.cs",
               "RelativeDocumentMoniker": "EvaluacionDiagnosticaApp\\Menu.cs",
               "ToolTip": "C:\\Users\\josab\\Evaluacion_Diagnostica_Drajen\\EvaluacionDiagnosticaApp\\EvaluacionDiagnosticaApp\\Menu.cs [Dise\u00F1o]",
               "RelativeToolTip": "EvaluacionDiagnosticaApp\\Menu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T05:46:22.918Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-12-22T05:46:22.918Z"
             }
           ]
         }
