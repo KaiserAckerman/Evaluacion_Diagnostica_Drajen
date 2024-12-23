@@ -21,3 +21,6 @@ C:\Users\josab\Evaluacion_Diagnostica_Drajen\EvaluacionDiagnosticaApp\Evaluacion
 C:\Users\josab\Evaluacion_Diagnostica_Drajen\EvaluacionDiagnosticaApp\EvaluacionDiagnosticaApp\obj\Debug\net8.0-windows\EvaluacionDiagnosticaApp.pdb
 C:\Users\josab\Evaluacion_Diagnostica_Drajen\EvaluacionDiagnosticaApp\EvaluacionDiagnosticaApp\obj\Debug\net8.0-windows\EvaluacionDiagnosticaApp.genruntimeconfig.cache
 C:\Users\josab\Evaluacion_Diagnostica_Drajen\EvaluacionDiagnosticaApp\EvaluacionDiagnosticaApp\obj\Debug\net8.0-windows\ref\EvaluacionDiagnosticaApp.dll
+C:\Users\josab\Evaluacion_Diagnostica_Drajen\EvaluacionDiagnosticaApp\EvaluacionDiagnosticaApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\josab\Evaluacion_Diagnostica_Drajen\EvaluacionDiagnosticaApp\EvaluacionDiagnosticaApp\obj\Debug\net8.0-windows\EvaluacionDiagnosticaApp.csproj.AssemblyReference.cache
+C:\Users\josab\Evaluacion_Diagnostica_Drajen\EvaluacionDiagnosticaApp\EvaluacionDiagnosticaApp\obj\Debug\net8.0-windows\Evaluaci.6DC7E3F3.Up2Date

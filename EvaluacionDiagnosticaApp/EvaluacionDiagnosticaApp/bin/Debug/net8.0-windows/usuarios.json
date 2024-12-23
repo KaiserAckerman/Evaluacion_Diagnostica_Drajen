@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 6,
+    "Nombre": "Roberto Vallejo",
+    "Edad": 22,
+    "Contrasena": "12345"
+  },
+  {
+    "Id": 7,
+    "Nombre": "Esmeralda Zamora",
+    "Edad": 24,
+    "Contrasena": "123345"
+  },
+  {
+    "Id": 8,
+    "Nombre": "Elisa Reyes",
+    "Edad": 45,
+    "Contrasena": "123456"
+  },
+  {
+    "Id": 9,
+    "Nombre": "Alejandro Arellano",
+    "Edad": 23,
+    "Contrasena": "12345"
+  },
+  {
+    "Id": 10,
+    "Nombre": "Roberto Fierro",
+    "Edad": 21,
+    "Contrasena": "12345"
+  },
+  {
+    "Id": 11,
+    "Nombre": "Alejandra Aparicio",
+    "Edad": 26,
+    "Contrasena": "12345"
+  }
+]
